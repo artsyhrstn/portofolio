@@ -1,6 +1,6 @@
-# Economics Student @Universitas Padjadjaran
+# Economics Undergraduate Student @Universitas Padjadjaran
 
-#### Technical Skills: Python, Stata
+#### Technical Skills: Python, Stata, Tableau
 
 ## About Me
 I am Hisbi Asyihristani Rijal, an economics student at Padjadjaran University. I have an interest in understanding data, making analysis based on data, and also visualizing data. 
